@@ -1,0 +1,6 @@
+
+INFO:root:Программа запущена с параметрами Namespace(file='AAP', file_log='app.log', file_out='rezult.txt', level_log='INFO', symbol=None, up_value=40, year=2016)в режиме файл
+INFO:root:[Errno 2] No such file or directory: 'AAP'
+INFO:root:Программа запущена с параметрами Namespace(file='AAPL', file_log='app.log', file_out='rezult.txt', level_log='INFO', symbol=None, up_value=40, year=2016)в режиме файл
+INFO:root:[Errno 2] No such file or directory: 'AAPL'
+INFO:root:Программа запущена с параметрами Namespace(file=None, file_log='app.log', file_out='rezult.txt', level_log='INFO', symbol='AAPL', up_value=40, year=2016)в режиме сеть
